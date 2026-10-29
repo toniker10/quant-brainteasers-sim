@@ -1,1 +1,0 @@
-# quant-brainteasers-sim
